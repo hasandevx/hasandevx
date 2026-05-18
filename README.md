@@ -12,9 +12,9 @@
 *(Yes, real ones — not just stuck in dev mode 😎)*  
 
 - 🎵 [**XioMusic**](https://play.google.com/store/apps/details?id=com.hasanmadenotex.xio_music): MP3 & Music player  
-- 🎙️ [**EZRecorder**](https://play.google.com/store/apps/details?id=com.hasanmadenotex.ez_recorder): Fun audio recorder  
+- 🎙️ [**Wavly**](https://play.google.com/store/apps/details?id=com.hasanmadenotex.ez_recorder): Fun audio recorder  
 - 🎚️ [**AZRecorder**](https://play.google.com/store/apps/details?id=com.hasanmadenotex.az_recorder): Minimalistic audio recorder  
-- 📘 [**English Idioms**](https://play.google.com/store/apps/details?id=com.hasanffdevaf.english_idioms_x1): Learn idioms the fun way  
+- 📘 [**English Idioms & Phrases**](https://play.google.com/store/apps/details?id=com.hasanffdevaf.english_idioms_x1): Learn idioms the fun way  
 
 ---
 
