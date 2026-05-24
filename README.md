@@ -18,7 +18,7 @@
 
 ---
 
-☕ Powered by caffeine and last-minute bug fixes  
+☕ Powered by caffeine
 🚀 Always building, breaking, and rebuilding  
 
 👉 Let’s collab, ship something fun, or just rant about state management!
